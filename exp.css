@@ -619,8 +619,7 @@ a{
     width: 100%; /* Full width of viewport */
     margin-top: 10rem;
     animation: fadeIn 1s ease-in forwards;
-      animation-delay: calc(var(--scroll) * -1s);
-    
+    animation-delay: calc(var(--scroll) * -1s);
     position: relative;
     top: 80vh;
     overflow-x: hidden;
@@ -1465,6 +1464,31 @@ h4 {
     font-family: cap;
     src: url("American Captain.otf");
 }
+@media (max-width: 1024px) {
+    h4 {
+        top: 300px; 
+        left: 25%; 
+        font-size: 1.3rem; 
+    }
+}
+
+@media (max-width: 768px) {
+    h4 {
+        top: 310px;
+        left: 20%; 
+        font-size: 1.1rem; 
+        margin-top: 50px; 
+    }
+}
+
+@media (max-width: 480px) {
+    h4 {
+        top: 305px;
+        left: 10%; 
+        font-size: 1rem; 
+        text-align: center; 
+    }
+}
 
 
 .navv {
@@ -1602,4 +1626,9 @@ color: red;
     .bottom-center p i{
     color: red;
     }
+}
+hr {
+    border: 1px solid white; /* Use this to set the visible line color */
+    width: 100%; /* Maintain full width */
+    margin: 10px 0; /* Add some spacing for better visibility */
 }
