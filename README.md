@@ -1,7 +1,10 @@
-This project serves as a central platform to showcase and manage the annual entrepreneurial summit organized by our college.Welcome to E-Summit Website of MLRITM!
+This project serves as a central platform to showcase and manage the annual entrepreneurial summit organized by our college.
+
+**Welcome to E-Summit Website of MLRITM!**
 Technologies Used
 Frontend: HTML, CSS, JavaScript
-Acknowledgments
+
+**Acknowledgments**
 Special thanks to Meghanadha Reddy,Rochan Reddy,Mithresh,& Akhil Sathwik.
 Inspired by other successful e-summit platforms.
 Contributing
