@@ -6,7 +6,10 @@ This project serves as a central platform to showcase and manage the annual entr
 Frontend: HTML, CSS, JavaScript
 
 **Acknowledgments**
-Special thanks to Meghanadha Reddy,Rochan Reddy,Mithresh,& Akhil Sathwik.
+Special thanks to @MEGHANADHA-REDDY
+Rochan Reddy
+Mithresh
+Akhil Sathwik.
 
 Inspired by other successful e-summit platforms.
 
