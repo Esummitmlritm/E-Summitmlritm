@@ -5,11 +5,11 @@ This project serves as a central platform to showcase and manage the annual entr
 **Technologies Used**
 Frontend: HTML, CSS, JavaScript
 
-**Acknowledgments**
-Special thanks to @MEGHANADHA-REDDY
-Rochan Reddy
-Mithresh
-Akhil Sathwik.
+****Acknowledgments Special thanks to** 
+* [Meghanadha Reddy](https://github.com/MEGHANADHA-REDDY)
+* [Rochan Reddy](https://github.com/rochanreddy)
+* [Mithresh](https://github.com/Mithreshhh)
+* [Akhil Sathwik.](https://github.com/akhils0810)
 
 Inspired by other successful e-summit platforms.
 
