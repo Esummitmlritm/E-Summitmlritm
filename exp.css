@@ -1538,6 +1538,11 @@ h4 {
 .navv a:hover::after {
     width: 100%; /* Extend the underline to full width on hover */
 }
+@media (max-width: 768px) {
+    .navv {
+        display: none; /* Hides the navbar on screens smaller than 768px */
+    }
+}
 
 .iic{
     object-fit: contain;
