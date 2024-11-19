@@ -23,7 +23,7 @@ const eventDetails = [
 ];
 
 const eventImages = [
-  "coming.png", "startupexpo.png", "coming.png", 
+  "coming.png", "startupexpro.png", "coming.png", 
   "coming.png", "coming.png", "coming.png", 
   "workshop.png", "career.png", "hackathon.png", 
   "board.png", "ideathon.jpg", "entro.png", 
