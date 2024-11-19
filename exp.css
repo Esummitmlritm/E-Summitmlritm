@@ -46,8 +46,8 @@
     right: 10%;
     height: 170px;
     width: 120px;
-    top: 2px;
     object-fit: contain;
+    top: 1px;
 }
 
 .unique-card {
@@ -664,7 +664,6 @@ a{
         height: auto;
         width: 100%;
         border: 2px solid black;
-        margin-top: 10%;
         padding: 20px;
         box-sizing: border-box;
         font-family: 'Roboto', sans-serif;
