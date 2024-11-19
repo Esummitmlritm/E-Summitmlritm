@@ -795,7 +795,13 @@ a{
         display: flex;
         flex-direction: column; /* Stack content vertically on small screens */
     }
-
+    .iicRight{
+        display: inline-block;
+        position: absolute;
+        height: 170px;
+        width: 120px;
+        margin-left: 80%;
+    }
     .container-rochan {
         position: relative;/* Ensure no horizontal overflow */
         right: 10px;
@@ -849,13 +855,11 @@ a{
     .iicLogo{
         height: 70px;
         width: 70px;
-        top: 2.5vh;
         left: 10px;
     }
     .iicRight{
         height: 70px;
         width: 70px;
-        top: 7.5vh;
         left: 10px;
     }
     
