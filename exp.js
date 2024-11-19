@@ -24,7 +24,7 @@ const eventDetails = [
 
 const eventImages = [
   "keynote.png", "startupexpro.png", "intershipfair.jpg", 
-  "mockinterview.png", "coming.png", "coming.png", 
+  "mockinterview.png", "firechat.png", "coming.png", 
   "workshop.png", "career.png", "hackathon.png", 
   "board.png", "ideathon.jpg", "entro.png", 
   "battle.png", "vitualTrade.jpg","coming.png"
