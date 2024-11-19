@@ -856,7 +856,7 @@ a{
         height: 70px;
         width: 70px;
         left: 10px;
-         top: 10px;
+        top: 10px;
     }
     .iicRight{
         height: 70px;
@@ -1590,8 +1590,17 @@ h4 {
 }
 .bottom-center{
     color: lightseagreen;
-    margin-left: 340px;
+    margin-left: 45%;
 }
 .bottom-center p i{
 color: red;
+}
+@media (max-width:768px) {
+    .bottom-center{
+        color: lightseagreen;
+        margin-left: 28%;
+    }
+    .bottom-center p i{
+    color: red;
+    }
 }
